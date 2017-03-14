@@ -1,9 +1,9 @@
 #### Single-line Summary
-**Today, _ and _ paired together. It took about _**
+**Today, Anna and Ely paired together. It took about _**
 
 #### Reflect and summarize on your process for each `TODO` item :  
-  1. First, we started on ...
-  2. Next, we ...
+  1. First, we started on the index. html meta tag.
+  2. Next, we did the hamburger icon with link reference to the icon font. And the modules.css for the styling of the hamburger icon to make it bigger and to the right.
   3. 
 
 #### Checklist (before submitting, fill in each set of square brackets with an 'x')
