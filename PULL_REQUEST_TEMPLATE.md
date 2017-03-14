@@ -1,5 +1,5 @@
 #### Single-line Summary
-**Today, Anna and Ely paired together. It took about _**
+**Today, Anna and Ely paired together. It took about 3 hours.
 
 #### Reflect and summarize on your process for each `TODO` item :  
   1. First, we started on the index. html meta tag.
