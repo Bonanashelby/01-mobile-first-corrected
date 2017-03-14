@@ -58,4 +58,20 @@ i {
          - Hide the hamburger.
          - Main should be all on one row, with padding spaced better for a larger screen.
          - Just, ya know, try to make it look good! */
-/* @media only screen... */
+
+@media screen and (min-width: 620px){
+  .fa-bars {
+   display: none !important;
+  }
+  .main-nav ul {
+    display: block;
+  }
+  .main-nav li {
+    margin-right: 1em;
+    margin-left: 0.5em;
+    font-size: 1.5em;
+    padding: .5em .2em;
+    border-bottom: 0px;
+    display: inline-block;
+  }
+}
